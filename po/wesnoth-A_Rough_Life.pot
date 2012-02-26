@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-22 15:35+0100\n"
+"POT-Creation-Date: 2012-02-26 17:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4226,7 +4226,7 @@ msgid "regenerates"
 msgstr ""
 
 #. [regenerate]: id=regenerates4
-#: ./A_Rough_Life/units/Kyoko.cfg:134
+#: ./A_Rough_Life/units/Kyoko.cfg:133
 msgid ""
 "Regenerates:\n"
 "The unit will heal itself 4 HP per turn. If it is poisoned, it will remove the poison instead of healing."
@@ -4243,7 +4243,7 @@ msgid "inspire"
 msgstr ""
 
 #. [leadership]: id=inspire_0
-#: ./A_Rough_Life/units/Kyoko.cfg:166
+#: ./A_Rough_Life/units/Kyoko.cfg:165
 msgid ""
 "Inspire:\n"
 "This unit can inspire own L0, L1, or L2 units that are next to it, making them fight better. Adjacent own units of L2 will do more 25% more damage; L1 units will do 50% more, and L0 will do 75% more."
@@ -4255,7 +4255,7 @@ msgid "Improve staff attack"
 msgstr ""
 
 #. [unit_type]: id=Elvish Princess, race=elf
-#: ./A_Rough_Life/units/Kyoko.cfg:241
+#: ./A_Rough_Life/units/Kyoko.cfg:239
 msgid ""
 "The world of faerie is far more potent than the corporeal world. Simply bringing some of this world into our own can have violent results. This is well-understood by the elves, although rarely used with malicious intent; doing so is no easy task, and is a very ill-regarded use of their strength.\n"
 "\n"
