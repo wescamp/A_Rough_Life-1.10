@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:17+0100\n"
+"POT-Creation-Date: 2012-04-29 18:06-0400\n"
 "PO-Revision-Date: 2012-02-22 15:29+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -73,27 +73,27 @@ msgid ""
 "late..."
 msgstr ""
 
-#. [side]: id=Jacques, type=Thief
-#. [side]: id=Jacques, type=Battle Commander
 #. [event]
+#. [side]: id=Jacques, type=Battle Commander
 #. [side]: id=Jacques, type=Sand Trapper
-#: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:57
-#: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:48
-#: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:48
-#: A_Rough_Life/scenarios/13_Following_Destiny.cfg:41
-#: A_Rough_Life/scenarios/1_Led_Astray.cfg:29
-#: A_Rough_Life/scenarios/12_Flip_of_Destiny.cfg:36
-#: A_Rough_Life/scenarios/12_Flip_of_Destiny.cfg:45
-#: A_Rough_Life/scenarios/12_Flip_of_Destiny.cfg:56
-#: A_Rough_Life/scenarios/6_Seeing_the_Light.cfg:38
-#: A_Rough_Life/scenarios/3_Hard_Labour.cfg:49
+#. [side]: id=Jacques, type=Thief
 #: A_Rough_Life/scenarios/10_Tears_in_Hell.cfg:39
 #: A_Rough_Life/scenarios/10_Tears_in_Hell.cfg:44
 #: A_Rough_Life/scenarios/10_Tears_in_Hell.cfg:92
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:48
-#: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:34
-#: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:42
+#: A_Rough_Life/scenarios/12_Flip_of_Destiny.cfg:36
+#: A_Rough_Life/scenarios/12_Flip_of_Destiny.cfg:45
+#: A_Rough_Life/scenarios/12_Flip_of_Destiny.cfg:56
+#: A_Rough_Life/scenarios/13_Following_Destiny.cfg:41
 #: A_Rough_Life/scenarios/14_Changing_Destiny.cfg:53
+#: A_Rough_Life/scenarios/1_Led_Astray.cfg:29
+#: A_Rough_Life/scenarios/3_Hard_Labour.cfg:49
+#: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:34
+#: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:48
+#: A_Rough_Life/scenarios/6_Seeing_the_Light.cfg:38
+#: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:42
+#: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:57
+#: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:48
 msgid "Jacques"
 msgstr ""
 
@@ -134,9 +134,9 @@ msgstr ""
 
 #. [side]: type=Dwarvish Runemaster, id=King Bombasan
 #. [unit]: type=Dwarvish Runemaster, id=King Bombasan
+#: A_Rough_Life/scenarios/10_Tears_in_Hell.cfg:129
 #: A_Rough_Life/scenarios/2_Captivity.cfg:117
 #: A_Rough_Life/scenarios/2_Captivity.cfg:132
-#: A_Rough_Life/scenarios/10_Tears_in_Hell.cfg:129
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:53
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:68
 msgid "King Bombasan"
@@ -280,29 +280,29 @@ msgid ""
 "their evil adversary and truly break his chains."
 msgstr ""
 
-#. [side]: id=Jacques, type=Thief
+#. [event]
 #. [modify_unit]
 #. [side]: id=Jacques, type=Battle Commander
-#. [event]
+#. [side]: id=Jacques, type=Thief
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:39
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:330
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:49
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:172
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:192
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:206
 #: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:40
 #: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:113
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:39
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:330
 msgid "Fierce Jacques"
 msgstr ""
 
+#. [side]
 #. [side]: type=Arch Mage, id=Ruphulus
 #. [side]: type=Dragon Lord, id=Ruphulus
-#. [side]
 #. [unit]: type=Dragon Lord, id=Ruphulus
-#: A_Rough_Life/scenarios/2_Captivity.cfg:147
-#: A_Rough_Life/scenarios/2_Captivity.cfg:162
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:56
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:71
+#: A_Rough_Life/scenarios/2_Captivity.cfg:147
+#: A_Rough_Life/scenarios/2_Captivity.cfg:162
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:82
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:97
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:135
@@ -315,11 +315,11 @@ msgstr ""
 msgid "Dark Knight"
 msgstr ""
 
-#. [side]: type=Death Knight, id=Dark Knight
+#. [side]: type=Ancient Lich, id=Counsellor of Death
 #. [side]: type=Death Knight, id=Blood Knight
+#. [side]: type=Death Knight, id=Dark Knight
 #. [side]: type=Draug, id=Bone Marshall
 #. [side]: type=Skeletal Dragon, id=Pet of Death
-#. [side]: type=Ancient Lich, id=Counsellor of Death
 #. [side]: type=Skeleton Guardian left, id=Fear
 #. [side]: type=Skeleton Guardian right, id=Loathing
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:93
@@ -581,10 +581,10 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:467
-#: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:282
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:621
 #: A_Rough_Life/scenarios/14_Changing_Destiny.cfg:280
+#: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:282
+#: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:467
 msgid ""
 "Jacques realizes that the shadow no longer frightens him. He is calm and "
 "determined. His troops around him are reinvigorated and fight on with new "
@@ -593,10 +593,10 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:479
-#: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:294
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:633
 #: A_Rough_Life/scenarios/14_Changing_Destiny.cfg:292
+#: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:294
+#: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:479
 msgid ""
 "Finally, Jacques feels that he has set on the road to reaching his full "
 "potential, but he still has some way to go."
@@ -702,9 +702,9 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:508
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:781
 #: A_Rough_Life/scenarios/14_Changing_Destiny.cfg:321
+#: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:508
 msgid ""
 "The Princess fought like a valiant fighter worthy of her dwarvish ancestry "
 "and breezed through the enemy ranks with speed worthy of her elven one. And "
@@ -725,9 +725,9 @@ msgstr ""
 
 #. [side]: id=Krug, type=Troll Whelp
 #. [unit]: type=Great Troll, id=Krug
+#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:818
 #: A_Rough_Life/scenarios/15a_Vengeance_in_the_Making.cfg:43
 #: A_Rough_Life/scenarios/15b_Vengeance_in_the_Making.cfg:40
-#: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:818
 msgid "Krug"
 msgstr ""
 
@@ -1308,8 +1308,8 @@ msgid ""
 "towards the home village, where he was met by an unfortunate sight..."
 msgstr ""
 
-#. [side]: id=Jacques, type=Battle Commander
 #. [event]
+#. [side]: id=Jacques, type=Battle Commander
 #: A_Rough_Life/scenarios/13_Following_Destiny.cfg:36
 #: A_Rough_Life/scenarios/13_Following_Destiny.cfg:110
 msgid "Raging Jacques"
@@ -1518,8 +1518,8 @@ msgid ""
 "unleashed on them..."
 msgstr ""
 
-#. [side]: id=Jacques, type=Battle Commander
 #. [event]
+#. [side]: id=Jacques, type=Battle Commander
 #: A_Rough_Life/scenarios/14_Changing_Destiny.cfg:45
 #: A_Rough_Life/scenarios/14_Changing_Destiny.cfg:97
 msgid "High-Spirited Jacques"
@@ -1536,8 +1536,8 @@ msgid "Capture the brutes."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:155
 #: A_Rough_Life/scenarios/14_Changing_Destiny.cfg:118
+#: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:155
 msgid ""
 "Despite winning his fair maiden's heart, Jacques is painfully aware that he "
 "has won almost no duels himself. A true leader of his people, he makes, "
@@ -1546,8 +1546,8 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:168
 #: A_Rough_Life/scenarios/14_Changing_Destiny.cfg:131
+#: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:168
 msgid ""
 "You can take a trapper out of the rough, but you can't seem to be able to "
 "take the rough out of the trapper. Jacques feels he could be more - should "
@@ -1591,8 +1591,8 @@ msgid "Now, friends, now!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:926
 #: A_Rough_Life/scenarios/14_Changing_Destiny.cfg:336
+#: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:926
 msgid ""
 "It was said afterwards that a big bird circled above Jacques and went at him "
 "just as he was attacked by one of the brutes, making him lose his foothold, "
@@ -1766,8 +1766,8 @@ msgid ""
 "come to join them - and Jacques would plan his next move..."
 msgstr ""
 
-#. [side]: id=Jacques, type=Battle Commander
 #. [event]
+#. [side]: id=Jacques, type=Battle Commander
 #: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:43
 #: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:110
 #: A_Rough_Life/scenarios/15a_Vengeance_in_the_Making.cfg:30
@@ -1804,9 +1804,9 @@ msgid "Find a way to break the dam."
 msgstr ""
 
 #. [objective]: condition=lose
+#: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:105
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:132
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:468
-#: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:105
 msgid "Death of Jacques or Kyoko."
 msgstr ""
 
@@ -2417,20 +2417,20 @@ msgid ""
 "received more joy when visited by an old friend."
 msgstr ""
 
-#. [side]: id=Jacques, type=Battle Commander
 #. [event]
+#. [side]: id=Jacques, type=Battle Commander
 #: A_Rough_Life/scenarios/16_Fertile_Valley.cfg:37
 #: A_Rough_Life/scenarios/16_Fertile_Valley.cfg:66
 msgid "Regal Jacques"
 msgstr ""
 
-#. [unit]: type=Ancient Wose, id=Arbor
 #. [side]: id=Arbor, type=Ancient Wose
+#. [unit]: type=Ancient Wose, id=Arbor
+#: A_Rough_Life/scenarios/16_Fertile_Valley.cfg:50
+#: A_Rough_Life/scenarios/16_Fertile_Valley.cfg:57
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:263
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:564
 #: A_Rough_Life/scenarios/6_Seeing_the_Light.cfg:46
-#: A_Rough_Life/scenarios/16_Fertile_Valley.cfg:50
-#: A_Rough_Life/scenarios/16_Fertile_Valley.cfg:57
 msgid "Arbor"
 msgstr ""
 
@@ -2510,8 +2510,8 @@ msgstr ""
 msgid "Greedy Farmer"
 msgstr ""
 
-#. [side]: type=Peasant, id=Greedy Farmer
 #. [side]: type=Goblin Rouser, id=Evil Goblin Trader
+#. [side]: type=Peasant, id=Greedy Farmer
 #. [side]: type=Woodsman, id=Greedy Villager
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:62
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:77
@@ -3265,8 +3265,8 @@ msgid ""
 "he was rushed to dress and join a group of captives, waiting to go outside."
 msgstr ""
 
-#. [side]: id=Jacques, type=Thief
 #. [modify_unit]
+#. [side]: id=Jacques, type=Thief
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:41
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:152
 msgid "Bewildered Jacques"
@@ -3281,9 +3281,9 @@ msgid "Gronar"
 msgstr ""
 
 #. [side]: type=Gryphon, id=Hatrox
+#: A_Rough_Life/scenarios/3_Hard_Labour.cfg:88
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:57
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:74
-#: A_Rough_Life/scenarios/3_Hard_Labour.cfg:88
 msgid "Hatrox"
 msgstr ""
 
@@ -3293,9 +3293,9 @@ msgid "Defeat ten beasts before the turns run out."
 msgstr ""
 
 #. [objective]: condition=lose
+#: A_Rough_Life/scenarios/3_Hard_Labour.cfg:120
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:119
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:442
-#: A_Rough_Life/scenarios/3_Hard_Labour.cfg:120
 msgid "Turns run out or Jacques gets killed."
 msgstr ""
 
@@ -3454,8 +3454,8 @@ msgid ""
 "asleep when yelling woke him up..."
 msgstr ""
 
-#. [side]: id=Jacques, type=Thief
 #. [modify_unit]
+#. [side]: id=Jacques, type=Thief
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:29
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:94
 msgid "Tired Jacques"
@@ -3676,10 +3676,10 @@ msgid ""
 "Jacques' orders - kill them both or perish trying."
 msgstr ""
 
-#. [side]: id=Jacques, type=Thief
 #. [event]
 #. [modify_unit]
 #. [side]: id=Jacques, type=Sand Trapper
+#. [side]: id=Jacques, type=Thief
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:38
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:128
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:160
@@ -4375,8 +4375,8 @@ msgid ""
 "chamber so fast that Jacques and his men could barely keep up..."
 msgstr ""
 
-#. [side]: id=Jacques, type=Sand Trapper
 #. [modify_unit]
+#. [side]: id=Jacques, type=Sand Trapper
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:37
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:188
 msgid "Angry Jacques"
@@ -4393,9 +4393,9 @@ msgid "Death of Jacques, Kyoko or King Bombasan."
 msgstr ""
 
 #. [objective]: condition=lose
+#: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:151
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:128
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:464
-#: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:151
 msgid "Turns run out."
 msgstr ""
 
@@ -4909,8 +4909,8 @@ msgstr ""
 msgid "Night Guardian"
 msgstr ""
 
-#. [side]: type=Spectre, id=Night Guardian
 #. [side]: type=Ancient Lich, id=Lord Protector
+#. [side]: type=Spectre, id=Night Guardian
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:81
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:110
 msgid "Shadowhounds"
@@ -5853,15 +5853,15 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: A_Rough_Life/units/Sand_Ranger.cfg:19
 #: A_Rough_Life/units/Battle_Commander.cfg:45
+#: A_Rough_Life/units/Sand_Ranger.cfg:19
 msgid "sword"
 msgstr ""
 
 #. [attack]: type=pierce
-#: A_Rough_Life/units/Sand_Trapper.cfg:32
-#: A_Rough_Life/units/Sand_Ranger.cfg:31
 #: A_Rough_Life/units/Battle_Commander.cfg:57
+#: A_Rough_Life/units/Sand_Ranger.cfg:31
+#: A_Rough_Life/units/Sand_Trapper.cfg:32
 msgid "bow"
 msgstr ""
 
@@ -5894,8 +5894,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: A_Rough_Life/units/Elven_Queen.cfg:45 A_Rough_Life/units/Kyoko.cfg:248
 #: A_Rough_Life/units/Elven_Princess.cfg:22
+#: A_Rough_Life/units/Elven_Queen.cfg:45 A_Rough_Life/units/Kyoko.cfg:248
 msgid "staff"
 msgstr ""
 
@@ -5905,8 +5905,8 @@ msgid "ensnare"
 msgstr ""
 
 #. [attack]: type=pierce
-#: A_Rough_Life/units/Elven_Queen.cfg:78
 #: A_Rough_Life/units/Elven_Princess.cfg:43
+#: A_Rough_Life/units/Elven_Queen.cfg:78
 msgid "thorns"
 msgstr ""
 
