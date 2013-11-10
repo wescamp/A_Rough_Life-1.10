@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: A_Rough_Life-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-04 20:57-0400\n"
-"PO-Revision-Date: 2012-04-20 18:24+0900\n"
+"PO-Revision-Date: 2013-10-25 16:56+0900\n"
 "Last-Translator: mistzone <drier22@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ko\n"
@@ -95,7 +95,7 @@ msgstr ""
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:57
 #: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:48
 msgid "Jacques"
-msgstr ""
+msgstr "자퀘스"
 
 #. [message]: id=Kyoko
 #: A_Rough_Life/scenarios/10_Tears_in_Hell.cfg:99
@@ -140,7 +140,7 @@ msgstr ""
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:53
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:68
 msgid "King Bombasan"
-msgstr ""
+msgstr "국왕 봄바산"
 
 #. [message]: id=King Bombasan
 #: A_Rough_Life/scenarios/10_Tears_in_Hell.cfg:161
@@ -306,7 +306,7 @@ msgstr ""
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:113
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:369
 msgid "Ruphulus"
-msgstr ""
+msgstr "루풀루스"
 
 #. [side]: type=Death Knight, id=Dark Knight
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:78
@@ -362,8 +362,9 @@ msgstr ""
 
 #. [objective]: condition=win
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:232
+#, fuzzy
 msgid "Defeat Ruphulus."
-msgstr ""
+msgstr "루풀루스"
 
 #. [objective]: condition=lose
 #: A_Rough_Life/scenarios/11_The_Day_of_Reckoning.cfg:236
@@ -1326,8 +1327,9 @@ msgstr ""
 #. [objective]: condition=lose
 #: A_Rough_Life/scenarios/13_Following_Destiny.cfg:80
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:82
+#, fuzzy
 msgid "Death of Jacques."
-msgstr ""
+msgstr "자퀘스의 사망"
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/13_Following_Destiny.cfg:171
@@ -1407,8 +1409,9 @@ msgstr ""
 
 #. [message]: speaker=Jacques
 #: A_Rough_Life/scenarios/13_Following_Destiny.cfg:313
+#, fuzzy
 msgid "What do you mean, you tried to put it out?"
-msgstr ""
+msgstr "말하기 곤란하다는게 무슨 뜻이냐? 나는 알아야겠다!"
 
 #. [message]: speaker=unit
 #: A_Rough_Life/scenarios/13_Following_Destiny.cfg:318
@@ -1805,8 +1808,9 @@ msgstr ""
 #: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:105
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:132
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:469
+#, fuzzy
 msgid "Death of Jacques or Kyoko."
-msgstr ""
+msgstr "자퀘스의 사망"
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:178
@@ -1980,13 +1984,15 @@ msgstr ""
 
 #. [message]: speaker=Yang
 #: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:569
+#, fuzzy
 msgid "Who's there?"
-msgstr ""
+msgstr "무슨 일이냐?"
 
 #. [message]: speaker=Yin
 #: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:573
+#, fuzzy
 msgid "There's someone here?"
-msgstr ""
+msgstr "무슨 일이냐?"
 
 #. [message]: speaker=Yang
 #: A_Rough_Life/scenarios/15_Quenching_the_Thirst.cfg:577
@@ -2496,7 +2502,7 @@ msgstr ""
 #. [scenario]: id=1_Led_Astray
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:3
 msgid "Led Astray"
-msgstr "유혹에 빠지다"
+msgstr "미혹에 빠지다"
 
 #. [side]: id=Jacques, type=Thief
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:23
@@ -2525,12 +2531,12 @@ msgstr "사악한 고블린 상인"
 #. [unit]: type=Goblin Impaler, id=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:172
 msgid "Goblin Handler Jabb"
-msgstr "고블린 조련사 잡"
+msgstr "고블린 조련사 자압"
 
 #. [side]: type=Woodsman, id=Greedy Villager
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:184
 msgid "Greedy Villager"
-msgstr "욕심쟁이 주민"
+msgstr "욕심많은 마을사람"
 
 #. [side]: type=Mudcrawler, id=Mud Slime
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:207
@@ -2544,58 +2550,61 @@ msgstr "슬라임들"
 
 #. [objective]: condition=win
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:230
+#, fuzzy
 msgid "Have Jacques resist capture for as long as he can."
-msgstr "자퀘스가 최대한 오래 버티도록 할 것."
+msgstr "잡히기 전에 최소한 15턴을 버텨라"
 
 #. [objective]: condition=lose
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:234
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:465
+#, fuzzy
 msgid "Getting taken before turn 15."
-msgstr "15턴 전에 사로잡힌다."
+msgstr "15턴 이전에 자퀘스가 잡힘"
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:247
+#, fuzzy
 msgid "He is being tossed about on the open seas in the middle of a storm."
-msgstr "그는 폭풍의 한가운데에서 바다 한가운데로 떨어졌다."
+msgstr "격렬한 폭풍이 휘몰아치고 그는 바다 위로 떨어졌다."
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:251
 msgid "No, he's crawling away from a battlefield. Why is he even there?"
-msgstr "아니, 그는 전장에서 기어나가고 있다. 어째서 저런 데까지 갔을까?"
+msgstr ""
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:255
 msgid "Ahh, the sacred treasure. Must... get... the... treasure."
-msgstr "아아, 성스러운 보물이다. 꼭... 저걸... 가져야... 해."
+msgstr ""
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:259
 msgid ""
 "Is that him? Where is he going? Why is it so desolate? Is no one else around?"
 msgstr ""
-"저게 그가 맞나? 어디로 가고 있는걸까? 어째서 저렇게 쓸쓸하지? 곁에 아무도 없"
-"는걸까?"
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:263
+#, fuzzy
 msgid "Who are they? No, WHAT are they??"
-msgstr "저건 누구지? 아냐, <b>저건</b> 뭐야??"
+msgstr "저건 누구지? 아니, <i>저것들</i>은 대체 뭐지??"
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:267
 msgid "Go away, you fiends! Go away!"
-msgstr "저리가, 이 악마들아! 저리 가!"
+msgstr "저리가, 이 괴물들아! 저리 가!"
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:354
+#, fuzzy
 msgid "His home, all burnt down! And where is he? In the house? Noooo..."
-msgstr ""
-"그의 집이 통째로 불타고 있어! 그는 어딨지? 집 안에 있는건가? 안돼......"
+msgstr "그의 집이 불타 쓰러져간다! 그런데 그는 어딨지? 집 안에? 안돼..."
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:357
+#, fuzzy
 msgid "... and then he'd wake up, drenched in sweat and excitement."
-msgstr "... 그리고 그때 그는 흥분과 땀에 젖은 채로 깨어났다."
+msgstr "... 그리고 그는 헉 하는 소리와 함께 부들부들 떨며 깨어났다."
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:361
@@ -2605,10 +2614,6 @@ msgid ""
 "kings, mighty mages and fair maidens occupied his mind. He would often even "
 "talk aloud of his plans to make it big, someday."
 msgstr ""
-"그때 자퀘스가 꾸었던 꿈은, 그의 운명을 보여준 것이었거나 그게 아니라도 최소"
-"한 그의 모험에의 열망을 보여준 꿈이었다. 거대한 성채와, 권력을 가진 왕, 강대"
-"한 마법사와 어여쁜 아가씨들이 그의 마음을 사로잡았다. 그는 종종 언젠가 크게 "
-"성공할거라는 그의 계획을 소리높여 지껄이곤 했다."
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:366
@@ -2619,63 +2624,63 @@ msgid ""
 "Jacques unpopular with the common folk, it also gave him a sheltered "
 "existence."
 msgstr ""
-"그의 친구들은 그를 놀렸지만, 별로 심하게 말하진 않았다. 어쨌든 자퀘스는 험상"
-"궂은 이베스의 아들이었고, 이베스는 주정뱅이지만 모쉬 마을 근방에서 행패를 부"
-"리는 작은 규모의 도적단을 이끌고 있었던 것이다. 이때문에 자퀘스는 마을 사람들"
-"에게 인기는 없었지만, 보호받는 존재이기도 했다."
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:370
+#, fuzzy
 msgid ""
 "Thus Jacques dreamt of the day that he could leave and move on to greater "
 "things. And then, that day had arrived. Perhaps not quite as Jacques had "
 "envisioned it, but one should not be too picky when it comes to fate."
 msgstr ""
-"그래서 자퀘스는 이곳을 떠나 더 대단한 사람이 되는 날을 꿈꾸었다. 그리고 어느 "
-"날, 그날이 찾아왔다. 어쩌면 자퀘스가 그리던대로는 아니었겠지만, 사람은 운명"
-"이 찾아왔을 땐 까탈스러워서는 안되는 법이다."
+"그래서 자퀘스는 언젠가 더 멋진 무언가가 되는 날을 꿈꾸었다. 그리고 그 날이 찾"
+"아왔다. 비록 자퀘스가 상상하던 것과는 꽤 달랐지만, 한 사람의 운명을 만들어내"
+"려면 여러 번 다듬어야 하는 법이다."
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:374
+#, fuzzy
 msgid ""
 "A treasure ship was seen to have crashed onto a small island off the coast "
 "not far from Mosh, or at least that was the rumor circulating around the "
 "village pub. A treasure ship! Surely, that could be the ticket out of this "
 "life of poverty!"
 msgstr ""
-"모쉬 해안에서 가까운 작은 섬에 좌초된 보물선이 발견되었다. 최소한 마을의 술집"
-"에 떠도는 소문으로는 그러했다. 보물선! 분명 그것은 가난한 삶에서 탈출할 수 있"
-"는 차표나 다름없었다!"
+"모쉬에서 가까운 해안에 보물선이 좌초되었다는 보고가 들어왔다. 최소한 그런 소"
+"문이 마을의 술집에서 돌고 있었다. 보물선! 분명 이런 불행한 삶에서 빠져나가는 "
+"열차표나 다름없다!"
 
 #. [part]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:378
+#, fuzzy
 msgid ""
 "Jacques called together his small band of ruffians and set off to the island "
 "to investigate. And this is where our story begins..."
-msgstr ""
-"자퀘스는 그의 작은 불량배 무리를 모아 섬을 조사하러 떠났다. 그리고 여기서 우"
-"리의 이야기가 시작된다..."
+msgstr "자퀘스는 불량배 무리를 모아서 그곳을 조사하러 갔다..."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:390
+#, fuzzy
 msgid ""
 "Jacques finds himself on the small island, but with no promised riches in "
 "sight."
-msgstr "자퀘스는 작은 섬에 도착했지만, 희망의 재물은 눈에 띄지 않았다."
+msgstr "자퀘스는 작은 섬에 올라섰지만, 약속된 부는 눈에 들어오지 않았다."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:395
+#, fuzzy
 msgid ""
 "Shielding his eyes from the evening sun to find the wrecked treasure ship, "
 "he spots smaller boats coming ashore, and finally the facts click into "
 "place. He has been tricked, and an unfortunate fate awaits him!"
 msgstr ""
-"그는 석양빛을 손으로 가리며 좌초한 보물섬을 찾다가 작은 배들이 해안으로 오고 "
-"있는걸 발견했다. 마침내 모든 사실들이 딱 들어맞았다. 그는 함정에 빠진 것이"
-"다. 불운한 운명이 그를 기다리고 있는 것이다!"
+"그는 저녁 햇살에 눈을 가리며 불운한 배가 어딨는지 해안을 둘러보았다. 조그만 "
+"보트들이 해안으로 다가오는 것이 보였다. 갑자기 모든 것이 일목요연해진다. 그"
+"는 함정에 빠졌고, 불행한 운명이 그를 기다리고 있는 것이다!"
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:400
+#, fuzzy
 msgid ""
 "He sees not one or two, but three encampments around him. First, there are "
 "the villagers who tricked him into coming to this island in the first place. "
@@ -2686,23 +2691,22 @@ msgid ""
 "news. The other three groups are what he worries about: traders and traitors "
 "- slime, the lot of them."
 msgstr ""
-"한둘도 아니고 세 개의 기지가 그의 주변에 있었다. 먼저, 처음에 그를 이 섬으로 "
-"꾀어낸 마을 사람들이 있었다. 그리고 해안에서 난파선을 보았다고 증언했던, 이 "
-"사기극에 동참한 것이 분명한 농부들도 보였다. 마지막으로 그는 고블린 상인들로 "
-"보이는 무리를 발견했다. 설상가상으로 이 지역에 우글거리는 진흙 슬라임까지 이 "
-"섬에 생겨났는데, 그래도 이게 꼭 나쁜 소식이라고 할 수만은 없었다. 상인들과 배"
-"신자들, 그리고 수많은 슬라임의 세 무리가 그가 염려하는 적들이었다."
+"야영지가 한둘도 아니고 무려 네개나 있었다! 이 일을 계획한 것이 분명한 고블린 "
+"상인의 무리가 보였다. 헛소문으로 그를 유인한 마을 사람들도 있었고, 사기에 동"
+"조해서 난파선을 확인해준 농부들도 있었다. 끝으로 이 섬에 진흙 슬라임이 퍼지"
+"기 시작한 것이 보였지만 그건 별 문제가 아니었다. 그가 두려워하는 것은, 상인"
+"들... 배신자들, 슬라임. 그들의 숫자였다."
 
 #. [message]: id=Evil Goblin Trader
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:405
+#, fuzzy
 msgid ""
 "Remember, there is a good price for each one taken! You may beat some sense "
 "into them, but do not waste them. Most importantly, catch their snotty "
 "little leader! He will fetch a handsome sum!"
 msgstr ""
-"잊지마, 한놈한놈이 꽤 비싸다고! 정신 차리도록 좀 때려주는건 괜찮지만 버리게 "
-"만들지는 마. 제일 중요한건, 저 코흘리개 꼬마 대장을 잡는거다! 저놈은 멋진 수"
-"입이 될거야!"
+"잊지마, 한놈한놈이 모두 비싼 놈들이다! 무식하게 때려도 좋지만, 물건이 상하면 "
+"안돼. 저놈들 코흘리개 대장은 보너스다! 저놈은 꽤 값이 나갈거야!"
 
 #. [message]: id=Greedy Villager
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:409
@@ -2711,71 +2715,74 @@ msgstr "돈! 돈을 다오!"
 
 #. [message]: id=Greedy Farmer
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:413
+#, fuzzy
 msgid "Yes, money, and good riddance of that ruffian scum to boot!"
-msgstr ""
-"그래, 돈이다, 그것도 저 불량 쓰레기를 속시원히 없애버리는 대가로 말이지!"
+msgstr "그래, 돈도 받고 저 불량한 애새끼도 치워버리는 거야!"
 
 #. [message]: id=Mud Slime
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:417
 msgid "Gurgle! (Food!)"
-msgstr "꾸륵! (먹을거!)"
+msgstr "꾸륵! (밥!)"
 
 #. [message]: id=Greedy Farmer
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:421
+#, fuzzy
 msgid ""
 "Oh no! The island is infested with slime! How can this be? We have to get "
 "rid of it, before it manages to find its way onto our shores!"
-msgstr ""
-"이런! 이 섬에 슬라임이 번식하고 있잖아! 어떻게 이럴 수가 있지? 저놈들이 우리 "
-"해안가로 몰려오기 전에 놈들을 몰아내야 해!"
+msgstr "으악! 슬라임이다! 저게 우리 해안으로 오기 전에 치워버려야 해!"
 
 #. [message]: id=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:425
+#, fuzzy
 msgid ""
 "Do not forget the grand prize, peasants! The little thieves is what we're "
 "after, and surely we need not bother about some rubbish slime."
 msgstr ""
-"최우수상을 잊지 말라고, 농부들! 우리가 쫓는건 작은 도둑이지 저 형편없는 슬라"
-"임들을 건드릴 필요는 없어."
+"큰 댓가르 잊지마, 농부들! 우리가 쫓는 져 짝은 도둑들이 목표다. 슬라임 찌꺼기"
+"에 신경쓰지 마!"
 
 #. [message]: id=Mud Slime
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:430
 msgid "Mrrrmm! (Hungry!)."
-msgstr "므르믐! (배고파!)"
+msgstr "보그륵! (배고파!)"
 
 #. [message]: id=Jacques
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:434
+#, fuzzy
 msgid ""
 "I am not the thief on this island! Unless you count our stealing your senses "
 "with our clubs, you filthy goblins!"
 msgstr ""
-"난 이 섬의 도둑이 아냐! 우리 몽둥이로 너희 정신을 뺏아가는걸 안친다면 말이"
-"지, 이 더러운 고블린들아!"
+"나는 도둑이 아냐 임마! 그래도 네 정신은 이 몽둥이로 날려주지, 이 더러운 고블"
+"린놈!"
 
 #. [message]: id=Evil Goblin Trader
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:443
+#, fuzzy
 msgid ""
 "Jabb! Are you sure our rookie troops will be able to deal with these pesky "
 "ruffians? We could also call for the more experienced mercenaries to wrap "
 "this up quickly."
 msgstr ""
-"잡! 우리 신참 부대로 이 귀찮은 불량배들을 상대할 수 있는게 확실해? 경험많은 "
-"용병들을 불러서 더 빨리 일을 끝낼 수도 있잖아."
+"자압! 정말 신입들 갖고 져 성가신 불량배들 다룰 수 있겠냐? 경험많은 용병들을 "
+"부르면 금방 쌈싸먹을 수 있잖아."
 
 #. [message]: id=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:447
+#, fuzzy
 msgid ""
 "No need, boss! These punching bags will be easy to deal with. Frankly, I "
 "wonder whether they're even worth the trouble of not squashing them like "
 "bugs."
 msgstr ""
-"필요없어, 대장! 이 샌드백들을 상대하는건 쉽다고. 솔직히 이놈들을 벌레처럼 뭉"
-"개지 않으려는게 더 어려운거 같아."
+"필요없어요, 대장! 이 샌드백쯤이야 쉽게 끝내요. 벌레처럼 뭉개줄 수 있다구요."
 
 #. [message]: id=Jacques
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:451
+#, fuzzy
 msgid "I'm mightily tempted to squash you myself, goblin!"
-msgstr "내가 네놈을 직접 뭉개주고 싶은 생각이 막 드는걸, 고블린!"
+msgstr "지금 널 매우 뭉개주고 싶은데, 고블린!"
 
 #. [message]: id=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:455
@@ -2784,71 +2791,77 @@ msgstr "와서 잡아봐!"
 
 #. [objective]: condition=win
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:461
+#, fuzzy
 msgid ""
 "Have Jacques resist capture for as long as he can. (+ special bonus if "
 "Jacques kills the Goblin Handler)"
-msgstr ""
-"자퀘스가 최대한 오래 버티도록 할 것. (+ 자퀘스가 고블린 조련사를 죽이면 특별 "
-"보너스)"
+msgstr "고블린 조련사 자압을 자퀘스가 죽이면 특별한 보너스가 생긴다."
 
 #. [message]: id=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:479
+#, fuzzy
 msgid "No slacking, boys, go get them!"
-msgstr "어물어물거리지 말고, 가서 놈들을 잡아!"
+msgstr "꾸물대지 마라, 이놈들아, 가서 잡아!"
 
 #. [message]: id=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:487
+#, fuzzy
 msgid ""
 "Faster, men, faster! You're not going to let them escape you so easily, are "
 "you?"
-msgstr "빨리, 더 빨리! 놈들이 저렇게 쉽게 달아나게 놔두지는 않겠지?"
+msgstr "서둘러, 이것들아, 서둘러! 저놈들이 저리 쉽게 도망다니도록 놔둘거냐?"
 
 #. [message]: id=Greedy Farmer
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:496
 msgid "Ahh, shut up!"
-msgstr "아 좀 닥쳐!"
+msgstr "아아, 닥쳐!"
 
 #. [message]: id=Greedy Farmer
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:502
+#, fuzzy
 msgid ""
 "I have to say, that Goblin Handler might have been a good fighter, but at "
 "least it's nice and quiet without him."
 msgstr ""
+"저 고블린 조련사 놈 거친 싸움꾼이었지만, 저놈이 없으니 조용하고 좋구만."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:523
+#, fuzzy
 msgid ""
 "Observing the enemy, Jacques notices that the goblin handler moves in a "
 "carefully plotted pattern. He mostly tries to stay out of harm's way, the "
 "coward, but every now and then he comes close to the fighting to yell out "
 "commands to his troops."
 msgstr ""
-"적들을 바라보던 자퀘스는 고블린 조련사가 치밀하게 계획된 동선을 그리고 있다"
-"는 사실을 깨달았다. 그는 주로 아무 위험이 없는 곳을 맴돌고 있는 겁쟁이였고, "
-"매번 부대에게 소리쳐 명령할 때만 전장 가까이로 다가왔다."
+"적들을 관찰하던 중에, 자퀘스는 고블린 조련사의 움직임에 규칙이 있다는 걸 알아"
+"냈다. 그는 뒤쪽을 고수하는 겁쟁이였지만, 가끔 부대를 독려하러 달려나오곤 했"
+"다."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:528
+#, fuzzy
 msgid ""
 "Perhaps, if Jacques timed the attack correctly, he could confront the "
 "handler without coming too close to the two Northern encampments."
 msgstr ""
-"만일 자퀘스가 공격 시점을 제대로 잡는다면 북쪽의 두 기지에 가까이 가지 않고"
-"도 놈과 맞설 수 있을 것이다."
+"만약 자퀘스가 때만 잘 맞춘다면, 적 기지 쪽으로 가지 않고도 조련사 놈을 기습"
+"할 수 있을 것이다."
 
 #. [message]: id=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:543
+#, fuzzy
 msgid ""
 "You can run, twist and dodge all you want, but you will never escape us! The "
 "villagers want you gone, and we want the gold!"
 msgstr ""
-"넌 얼마든지 뛸수도, 비틀수도 피할 수도 있지만, 절대 우리에게서 달아날 순 없"
-"다! 마을 사람들은 네놈이 사라지길 원하고, 우린 돈을 원하지!"
+"아무리 도망치고 돌고 피해봐야, 우리에게서 도망칠 수 없다! 마을 놈들은 네가 없"
+"기를 바라고, 우리는 돈을 원한다!"
 
 #. [message]: id=Jacques
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:547
 msgid "Like you said yourself a while ago: Come and get me!"
-msgstr "아까 했던 말을 돌려주지: 와서 잡아봐!"
+msgstr "아까 했던 말 돌려주지. 와서 잡아봐!"
 
 #. [message]: id=Jacques
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:555
@@ -2856,44 +2869,48 @@ msgid ""
 "Whatever happens, at least now I have proven my worth in cuts and bruises "
 "and may hold my head high."
 msgstr ""
-"이제 어떻게 되더라도 최소한 이젠 여기저기 역전의 상처가 생겼으니 어디 가서 머"
-"리를 들 수 있겠군."
+"이제 어떻게 되든간에, 최소한 이 상처와 멍들이 내 가치를 증명해 줄테고, 어디가"
+"서 고개숙일 필요는 없겠어."
 
 #. [message]: speaker=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:566
 msgid "Goblins! To me! Protect your leader!"
-msgstr "고블린들아! 이리로! 대장을 지켜라!"
+msgstr "고블린들이여! 이리로 와라! 대장을 지켜라!"
 
 #. [message]: speaker=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:577
+#, fuzzy
 msgid ""
 "You dare sneak around me? Men, come and help me get this one chained up!"
-msgstr "감히 내 옆에 숨었어? 이봐, 이리 와서 이놈 묶는걸 도와줘!"
+msgstr "내 옆으로 살금살금 기어온다 이거지? 얘들아, 와서 이놈 묶는 것좀 도와!"
 
 #. [message]: speaker=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:588
+#, fuzzy
 msgid "Did you see, men? That's how you tether a restless calf!"
-msgstr "봤나, 인간들아? 가만 못있는 송아지는 이렇게 묶는거지!"
+msgstr "봤나, 얘들아? 날뛰는 송아지엔 이렇게 밧줄을 거는거야!"
 
 #. [message]: id=Jacques
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:605
 msgid "Gotcha! Not so smug now, are you?"
-msgstr "잡았다! 이젠 그렇게 우쭐해할 순 없겠지?"
+msgstr "잡았다! 이젠 잘난체 하지 못하겠지?"
 
 #. [message]: id=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:610
+#, fuzzy
 msgid "Wha-? How did you manage to sneak up on me? That was..."
-msgstr "뭐-? 어떻게 내 곁까지 온거지? 이건..."
+msgstr "뭐-? 어떻게 날 덮친거지? 이건..."
 
 #. [message]: id=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:616
+#, fuzzy
 msgid "How could this happen to me? Gone forever..."
-msgstr "어떻게 내게 이런 일이? 영원히 끝..."
+msgstr "어떻게 이런 일이? 영영 끝인가..."
 
 #. [message]: id=Jacques
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:620
 msgid "Well, he didn't die at my hand, but at least we got rid of him."
-msgstr "뭐, 놈을 내 손으로 죽이진 못했지만, 최소한 이놈을 치워버리긴 했으니까."
+msgstr "뭐, 내 손에 죽이진 못했지만, 어쨌든 놈을 치워버렸군."
 
 #. [floating_text]
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:652
@@ -2903,31 +2920,33 @@ msgstr "<span color='green'>근접 공격 +1</span>"
 #. [message]: id=Jacques
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:656
 msgid "Good riddance. Hey, I'm getting a hang of these weapon swings!"
-msgstr "속이 시원하군. 이봐, 무기를 휘두르는게 더 빨라졌어!"
+msgstr ""
 
 #. [message]: speaker=unit
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:680
+#, fuzzy
 msgid "Let me get rid of this slime for you amateurs! Shouldn't take long."
-msgstr ""
+msgstr "슬라임 잡는걸 보여주지 아마추어들아!"
 
 #. [message]: speaker=second_unit
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:712
+#, fuzzy
 msgid ""
 "What does this gob of slime think it's doing? Wait, is it really attacking "
 "me? Help, help!"
-msgstr ""
-"이 슬라임 덩어리가 대체 뭘 하려는거야? 잠깐, 이거 진짜 공격하는거야? 도와줘, "
-"도와줘!"
+msgstr "이 슬라임 덩어리가 뭐하는거지? 정말 날 공격하는거야? 도와줘, 도와줘!"
 
 #. [message]: speaker=second_unit
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:728
+#, fuzzy
 msgid "Hey! This thing can attack! Help, help!"
-msgstr ""
+msgstr "어이! 이거 공격해 오잖아! 도와줘, 도와줘!"
 
 #. [message]: speaker=unit
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:762
+#, fuzzy
 msgid "I cannot believe it! Killed by this stupid slime? Ahh, what shame..."
-msgstr "말도 안돼! 이런 멍청한 슬라임에게 죽는다고? 아, 쪽팔려..."
+msgstr "이런 멍청한 슬라임한테 죽다니! 으아..."
 
 #. [message]: speaker=unit
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:787
@@ -2935,58 +2954,64 @@ msgstr "말도 안돼! 이런 멍청한 슬라임에게 죽는다고? 아, 쪽�
 #: A_Rough_Life/scenarios/2_Captivity.cfg:285
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:232
 msgid "Aaaargh!"
-msgstr "아아아악!"
+msgstr "아아악!"
 
 #. [message]: speaker=Evil Goblin Trader
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:791
+#, fuzzy
 msgid ""
 "Ahh! Not as springy as I thought. No special sale for him then, just your "
 "regular gallows..."
-msgstr ""
-"아아! 내 생각만큼 팔팔하진 못하군. 특별 상품은 못되겠어, 그냥 교수대로 보"
-"내..."
+msgstr "아아! 생각만큼 팔팔하지 못하구만. 경매는 됐어, 그냥 교수대에 올려..."
 
 #. [message]: speaker=Evil Goblin Trader
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:804
+#, fuzzy
 msgid ""
 "Ahh, a feisty little character, indeed! That will do nicely for where I am "
 "about to send him..."
-msgstr "아아, 정말로 혈기왕성한 꼬마구만! 거기로 보내면 제대로 일하겠는데..."
+msgstr ""
+"아아, 정말로 혈기왕성한 어린 친구구만! 이놈이 갈 곳에 있는 그들이 값을 꽤 잘 "
+"쳐주겠어..."
 
 #. [message]: id=Evil Goblin Trader
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:835
+#, fuzzy
 msgid "Jabb! They will be easy pickings, you said."
-msgstr "잡! 쉬운 놈들이랬잖아."
+msgstr "자압! <i>쉬운 벌이가 될거라고</i> 하지 않았나."
 
 #. [message]: id=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:839
+#, fuzzy
 msgid ""
 "Well, boss, I do think they should be easy to beat. After all, they're so "
 "small, almost as small as us."
-msgstr ""
-"뭐, 대장, 난 놈들은 쉽게 잡혀야 한다고 생각한거야. 어쨌든, 저놈들은 거의 우리"
-"만큼이나 작잖아."
+msgstr "어, 대장, 저놈들은 쉽게 잡혀야돼요. 놈들은 우리만큼이나 작잖아요!"
 
 #. [message]: id=Evil Goblin Trader
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:843
+#, fuzzy
 msgid ""
 "You idiot! Can't you see it's taking much too long to overcome them? Forget "
 "it! It's time to bring in the big guys."
 msgstr ""
-"이 멍청아! 놈들을 잡는데 얼마나 걸리고 있는지 안보여? 됐어! 큰 놈들을 데려와"
-"야겠다."
+"이 멍청아! 놈들을 제압하는데 이렇게나 오래 걸리는거 안보이냐! 잊어버려! 큰 놈"
+"들을 데려와야겠다."
 
 #. [message]: id=Goblin Handler Jabb
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:848
 msgid "Ok, boss."
-msgstr "알았어, 대장."
+msgstr "네 대장."
 
 #. [message]: id=Evil Goblin Trader
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:854
+#, fuzzy
 msgid ""
 "This is tougher than I thought. I don't care what my arrogant handler said "
 "before - call in the heavy cavalry!"
 msgstr ""
+"생각보다 어려운걸. 지 잘난줄 아는 조련사 놈이 뭐라고 했든 상관없어. 중장병들"
+"을 불러!"
 
 #. [message]: id=Greedy Farmer
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:870
@@ -2996,47 +3021,48 @@ msgstr "이제 충분해. 집에 가자, 얘들아!"
 #. [message]: id=Greedy Villager
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:878
 msgid "Fall back, lads! Let the big guns take care of it."
-msgstr ""
+msgstr "물러나라, 얘들아! 거물들 행차시다."
 
 #. [message]: id=Evil Goblin Trader
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:892
+#, fuzzy
 msgid ""
 "How can this be? And that summer villa for me to retire in was just one "
 "sales trip away..."
-msgstr ""
-"어떻게 이런 일이? 행상 여행을 한번만 더 하면 은퇴해서 살려고 했던 그 여름 별"
-"장이 내것이었는데..."
+msgstr "어떻게 이럴수가? 이번 모험만 넘기면 은퇴 빌라를 사는 거였는데..."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:896
+#, fuzzy
 msgid ""
 "Against all odds, the boss of the goblin traders has been slain. And yet, "
 "the others still persevered and finally overcame the proud young douche..."
 msgstr ""
-"예상을 뒤엎고, 고블린 상단의 대장이 죽었다. 하지만 다른 이들은 끈질기게 버텼"
-"고 마침내 자랑스런 건방진 젊은이를 압도하였다..."
+"모든 악조건들에도 불구하고, 고블린 상인의 보스를 처치했다. 하지만 다른 자들"
+"은 끝내 이 자랑스런 젊은 도둑을 압도하고 말았다..."
 
 #. [message]: id=Jacques
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:905
+#, fuzzy
 msgid ""
 "Ha! The dragon may have taken me after all, but its head has been cut off "
 "just the same. Never will my own head drop in disgrace like this."
 msgstr ""
-"하! 결국 드래곤이 날 잡아먹을진 몰라도, 놈의 머리통도 똑같이 날아가 있을걸. "
-"이런 불명예따위로 내 머리를 떨굴 순 없지."
+"하! 드래곤이 날 잡아가더라도, 그놈의 목도 똑같이 따버릴거야! 불명예스럽게 머"
+"리를 떨구진 않겠어."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/1_Led_Astray.cfg:925
+#, fuzzy
 msgid ""
 "Jacques has persevered for five days, and still he stands high upon a pile "
 "of slain adversaries. Finally, at long last, they manage to overcome him. "
 "Fear is in their eyes, but they still glisten in anticipation of the gold "
 "coins that such a sturdy fighter will fetch in the Wild Plains..."
 msgstr ""
-"자퀘스는 5일을 견뎌내었고, 그러고도 쓰러진 적들을 무더기로 쌓아냈다. 마침내 "
-"오랜 시간이 지나고, 그들은 그를 제압해 냈다. 그들의 눈에는 공포가 서려 있었지"
-"만, 그곳엔 또한 이런 강인한 전사를 황야에 팔았을 때 받을 황금 동전을 꿈꾸는 "
-"탐욕도 서려 있었다..."
+"자퀘스는 며칠을 견뎠지만, 적들은 끝내 그를 쓰러뜨리고 말았다. 그들의 눈에는 "
+"공포, 그래, 공포와 기대의 빛이 담겨 있었다. 이렇게나 억센 전사를 황야의 경매"
+"에 데려간다면... 정말 쏠쏠할 것이다."
 
 #. [scenario]: id=2_Captivity
 #: A_Rough_Life/scenarios/2_Captivity.cfg:3
@@ -3045,28 +3071,30 @@ msgstr "감금"
 
 #. [part]
 #: A_Rough_Life/scenarios/2_Captivity.cfg:10
+#, fuzzy
 msgid ""
 "Jacques was taken to one of the ships of the traders waiting in the nearby "
 "deeper waters. A treasure ship, indeed! It was Jacques himself that was the "
 "treasure, and he could only wonder what the Goblin traders had in store for "
 "him."
 msgstr ""
-"자퀘스는 근처의 바다에서 대기하고 있던 상인의 배 중 한 곳에 실렸다. 진짜 보물"
-"선이었다! 보물은 자퀘스 자신이었고, 그는 그저 고블린 상인들이 자신에게 어떤 "
-"일을 불러올지 생각하는 것밖에는 할 수 없었다."
+"자퀘스는 쇠사슬에 묶인채 먼바다에 닻을 내린 상선으로 옮겨졌다. <i>보물선</"
+"i>, 진짜 보물선이었다! 자퀘스 자신이 바로 보물이었던 것이다! 그는 그저 고블린"
+"들이 그에게 무슨 짓을 할 것인지 궁리할 수밖에 없었다."
 
 #. [part]
 #: A_Rough_Life/scenarios/2_Captivity.cfg:14
+#, fuzzy
 msgid ""
 "He was taken below deck, to a cramped little cell, filled with other "
 "captives of all shapes and sizes. There were humans, no doubt tricked "
 "unawares like himself, but also several other races: sturdy little dwarves, "
 "pointy-eared elves, even merfolk that Jacques only ever saw in his dreams."
 msgstr ""
-"그는 갑판 아래 다양한 형체와 크기를 가진 다른 포로들로 가득찬 비좁은 선실로 "
-"끌려갔다. 그처럼 모르는 사이에 속아넘어간 게 분명한 인간들도 있었지만, 몇몇 "
-"다른 종족들도 있었다. 강인한 난쟁이 드워프들, 뾰족한 귀의 엘프들, 심지어 자퀘"
-"스가 꿈에서나 상상해 봤던 인어들도 있었다."
+"그는 비좁은 짐칸에 실렸다. 어두운 짐칸엔 각양각색의 포로들로 꽉 차 있었다. 그"
+"의 옆에는 그처럼 속아서 온 다른 인간들이 있었고, 그 말고도 작달막하고 건장한 "
+"드워프나 뾰족한 귀의 엘프들, 심지어는 자퀘스가 먼발치에서조차 몇번 본적 없는 "
+"은둔자 인어들까지 있었다. 갑판 아래엔 편안함이라곤 없었다."
 
 #. [part]
 #: A_Rough_Life/scenarios/2_Captivity.cfg:18
@@ -3077,10 +3105,6 @@ msgid ""
 "out. Every now and then, a few of the captives would be taken away, and "
 "occasionally others would join the unfortunate crowd."
 msgstr ""
-"언젠가 그는 그의 꿈이 실현될거라는 생각을 가지고 있었다. 하지만 그날과, 파도"
-"를 가르며 항해하는 배 안에서 허구헌날 일어나는 멀미와 향수병과 함께 보낸 이후"
-"의 몇 주는 그 언젠가가 아니었다. 매일 몇몇 포로들이 끌려나갔고, 가끔 불운을 "
-"맞이한 이들이 나왔다."
 
 #. [part]
 #: A_Rough_Life/scenarios/2_Captivity.cfg:21
@@ -3092,23 +3116,20 @@ msgid ""
 "marching later, he and a few of his newfound friends were led into a cave "
 "and left open air behind them once more."
 msgstr ""
-"마침내 그의 차례가 왔다. 기나긴 여정으로 약해진 그는 반짝이는 황금빛으로 가득"
-"한 경이로운 땅에 내려서서, 빛에 익숙지 않은 눈으로 주변을 둘러보았다. 자퀘스"
-"는 굳은 땅에 발을 딛자 날아갈 듯한 기분을 느꼈다. 하지만 몇 시간동안 지루한 "
-"행군 끝에 그와 새로 사귄 몇몇 친구들과 함께 동굴 안으로 딸려가면서 또다시 바"
-"깥 공기를 뒤로하게 되자 그 기분은 다시 가라앉았다."
 
 #. [part]
 #: A_Rough_Life/scenarios/2_Captivity.cfg:24
+#, fuzzy
 msgid ""
 "Once underground, they walked on for what seemed like an eternity. Jacques "
 "started thinking that he would never see the light of day again. Still, a "
 "wondrous sight opened up to the captives as they were finally pushed into "
 "what seemed like a grand chamber."
 msgstr ""
-"지하로 들어서고, 그들은 마치 영원의 세월처럼 걸었다. 자퀘스는 이제 다시는 낮"
-"의 태양을 볼 수 없을 거라는 생각을 하기 시작했다. 그러나 포로들이 마침내 대전"
-"(大殿)으로 보이는 방에 들어서자, 그들 앞에 또다른 경이로운 광경이 펼쳐졌다."
+"그들은 지하에서 꼬이고 갈라지는 길들로 가득한 끝없어 보이는 미로를 터덜터덜 "
+"걸어갔다. 자퀘스는 다시는 햇빛을 볼 수 없을거라는 예감이 들었다. 그리고 포로"
+"들이 한 거대한 방에 터덜터덜 걸어들어갔을 때, 색으로 가득한 경이로운 광경이 "
+"그들 앞에 펼쳐졌다."
 
 #. [side]: id=Jacques, type=Thief
 #: A_Rough_Life/scenarios/2_Captivity.cfg:45
@@ -3147,30 +3168,33 @@ msgstr "포퍼 중위"
 #: A_Rough_Life/scenarios/2_Captivity.cfg:188
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:108
 msgid "Wild Beasts"
-msgstr "야생 짐승들"
+msgstr "야수들"
 
 #. [objective]: condition=win
 #: A_Rough_Life/scenarios/2_Captivity.cfg:196
+#, fuzzy
 msgid "Defeat the beasts."
-msgstr "짐승들을 무찔러라."
+msgstr "야수 퇴치"
 
 #. [objective]: condition=lose
 #: A_Rough_Life/scenarios/2_Captivity.cfg:200
+#, fuzzy
 msgid "Death of Jacques or end of turns."
-msgstr "자퀘스가 죽거나 턴 오버됨"
+msgstr "자퀘스의 사망"
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/2_Captivity.cfg:214
+#, fuzzy
 msgid ""
 "It is a strange chamber - Jacques is certain that they are very deep, and "
 "pools of lava seem to confirm it. And yet, the chamber is also filled with "
 "exotic plants and two pools of water. There is no doubt that these are some "
 "strange lands... or strange people... or both."
 msgstr ""
-"그곳은 이상한 방이었다 - 자퀘스는 분명 그들이 매우 깊은 곳에 있을 거라 확신했"
-"고, 용암 웅덩이가 그것을 증명하는 듯 했다. 그럼에도 불구하고 대전(大殿)은 이"
-"국적인 식물들과 두개의 풀장으로 차 있었다. 분명 여기 있는 것은 이상한 땅... "
-"아니면 이상한 사람들... 아니면 둘 다임에 분명했다."
+"자퀘스는 일행이 아주 깊은 곳까지 왔다고 확신했다. 얼굴과 손에서 저 멀리 용암"
+"줄기에서 뻗어오는 열기가 느껴지는 가운데, 이국적인 식물들 뒤로 물로 가득히 빛"
+"나는 연못이 보였다. 분명 이곳은 이상한 땅이고... 이상한 사람들인게 틀림없"
+"다..."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/2_Captivity.cfg:219
@@ -3180,39 +3204,37 @@ msgid ""
 "although only two are occupied. Closer to them, they see a heavily armed man "
 "who observes them, bemused."
 msgstr ""
-"자퀘스는 그 만큼이나 어쩔줄 몰라하는듯한 네 명의 신입과 함께 이끌려 들어왔"
-"다. 그들 앞에는 조금 거리를 두고 세 개의 옥좌가 보였는데, 그 중 두개만이 주인"
-"이 있었다. 그들에게 다가가면서 그들은 중무장한 사람들이 그들을 지켜보는 것을 "
-"멍하니 바라보았다."
 
 #. [message]: id=Lieutenant Popper
 #: A_Rough_Life/scenarios/2_Captivity.cfg:224
 msgid "An odd lot we have got again, wouldn't you say Your Highness?"
-msgstr "또 특이한 자들이 들어왔군요, 그렇지 않습니까 전하?"
+msgstr "이번에도 적당한 상품이군요, 그렇지 않습니까 전하?"
 
 #. [message]: id=King Bombasan
 #: A_Rough_Life/scenarios/2_Captivity.cfg:228
 msgid "As long as they do their job, Popper, as long as they do their job."
-msgstr "자기 일만 제대로 하면 된다, 포퍼, 자기 일만 제대로 하면."
+msgstr "그들이 일을 한다면 그렇겠지, 포퍼, 일을 한다면."
 
 #. [message]: id=Lieutenant Popper
 #: A_Rough_Life/scenarios/2_Captivity.cfg:232
+#, fuzzy
 msgid ""
 "Of course, Your Highness. Now, allow me to offer a few welcoming words to "
 "the newcomers."
 msgstr ""
-"물론입니다, 전하. 이제 신입들에게 몇마디 환영의 말을 하도록 하겠습니다."
+"물론입니다, 전하. 우리의 새 하인들에게 일을 설명하기를 허락해 주십시오."
 
 #. [message]: id=Lieutenant Popper
 #: A_Rough_Life/scenarios/2_Captivity.cfg:236
+#, fuzzy
 msgid ""
 "Welcome to the Wild Plains! As everything in life, you are here to serve a "
 "purpose. And this purpose is to make sure that the workers on the outside "
 "are safe from the beasts that would otherwise roam the plains."
 msgstr ""
-"황야에 온 것을 환영한다! 살아있는 모든 것이 그렇듯이, 너희는 이곳에서 쓰이기 "
-"위해 왔다. 그리고 그 목적은 이 밖에서 일하는 일꾼들을 평원에서 돌아다니는 짐"
-"승들로부터 안전하게 지키는 것이다."
+"황야에 온 걸 환영한다! 살아있는 모든 것들이 그렇듯이, 너희들도 무언가 하기 위"
+"해 여기에 있다. 너희가 할 일은 벌판에 돌아다니는 야수들의 약탈로부터 우리 일"
+"꾼들의 안전과 생산성을 보장하는 것이다."
 
 #. [message]: id=Lieutenant Popper
 #: A_Rough_Life/scenarios/2_Captivity.cfg:240
@@ -3222,114 +3244,118 @@ msgid ""
 "thing to know is what you will be facing. Now, two of the most common "
 "types..."
 msgstr ""
-"어째서 너희가 이 일에 뽑혔는지나 애초에 왜 그런일을 해야하는가에 대해서는 알 "
-"필요가 없다. 너희가 알아둬야 할 중요한 것 단 하나는 너희가 무엇에 맞서야 할 "
-"것인가다. 이제, 가장 흔한 유형을..."
 
 #. [message]: id=Ruphulus
 #: A_Rough_Life/scenarios/2_Captivity.cfg:270
 msgid "Ahh, a picture is worth a thousand words, wouldn't you say?"
-msgstr "아아, 백문이 불여일견이지, 그렇지 않소?"
+msgstr "아아, 백문 불여일견이지, 그렇지 않나?"
 
 #. [message]: id=Lieutenant Popper
 #: A_Rough_Life/scenarios/2_Captivity.cfg:274
+#, fuzzy
 msgid ""
 "Argh! Ruphulus, I don't think that was the best idea. Well, I suppose this "
 "will be your first little test. Help us get rid of them, quick! And try not "
 "to get killed!"
 msgstr ""
-"으악! 루풀러스, 그렇게 좋은 생각같지는 않군요. 뭐, 이게 아무래도 너희의 첫번"
-"째 시험이 되겠군. 놈들을 없애는 걸 도와, 어서! 그리고 죽지 않게 조심하라!"
+"아악! 루풀루스, 별로 좋은 생각 같지는 않습니다만. 너희들! 아마도 이것이 너희"
+"의 첫번째 시험이 될 것이다. 우리를 도와서 이놈들을 처치해라, 어서! 그리고 죽"
+"지 말도록!"
 
 #. [message]: speaker=King Bombasan
 #: A_Rough_Life/scenarios/2_Captivity.cfg:289
 msgid "A shame indeed, he seemed to show promise, this young lad."
-msgstr "참 꼴불견이군, 이 어린 꼬마는 그래도 싹수가 있어 보였는데."
+msgstr "딱하구만. 이 꼬마는 장래정이 있어 보였는데."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/2_Captivity.cfg:300
+#, fuzzy
 msgid ""
 "Not getting rid of all the beasts in time, Jacques is suspected of either "
 "being incapable or liking them too much to do the job he would be asked to "
 "do. Thus, he is stripped of his hunter duties and taken to the mines "
 "instead, left there to rotten until the end of his days..."
 msgstr ""
-"제 시간에 모든 짐승들을 처치하지 못한 자퀘스는 그가 맡을 일을 하기에는 모자랐"
-"거나 짐승들을 너무 좋아하는 것처럼 보였다. 그래서 그는 사냥 임무에서 쫓겨나"
-"고 대신 광산으로 끌려가, 그가 죽어 썩는 날까지 그곳에 남겨졌다..."
+"작업이 너무 느려서, 자퀘스는 무능한 반동 분자로 판정되었다. 이런 이유로, 그"
+"는 사냥 임무에서 광산 임무로 옮겨졌고, 그곳에서 죽는 날까지 썩어야 했다..."
 
 #. [message]: id=Lieutenant Popper
 #: A_Rough_Life/scenarios/2_Captivity.cfg:315
+#, fuzzy
 msgid "I'm getting killed! Quick, Ruphulus, get me out of here!"
-msgstr "나 죽는다! 어서, 루불러스, 날 여기서 꺼내시오!"
+msgstr "중상을 입었다! 어서, 루풀루스, 여기서 빼내 주시오!"
 
 #. [message]: id=Ruphulus
 #: A_Rough_Life/scenarios/2_Captivity.cfg:328
 msgid "Hahahaha! Having fun yet?"
-msgstr "하하하하! 즐겁지 않은가?"
+msgstr "하하하하! 아직도 즐기고 있나?"
 
 #. [message]: speaker=second_unit
 #: A_Rough_Life/scenarios/2_Captivity.cfg:348
 msgid "Die, beast!"
-msgstr "죽어라, 이놈!"
+msgstr "죽어라!"
 
 #. [message]: speaker=second_unit
 #: A_Rough_Life/scenarios/2_Captivity.cfg:367
 msgid "Two down, two more to go!"
-msgstr "둘을 잡았고, 둘이 남았다!"
+msgstr "둘 처치했다, 이제 둘 남았어!"
 
 #. [message]: speaker=second_unit
 #: A_Rough_Life/scenarios/2_Captivity.cfg:386
 msgid "Only one more left!"
-msgstr "이제 한놈 뿐이다!"
+msgstr "이제 하나 남았다!"
 
 #. [message]: speaker=second_unit
 #: A_Rough_Life/scenarios/2_Captivity.cfg:405
 msgid "We did it!"
-msgstr "해냈다!"
+msgstr "해냈어!"
 
 #. [message]: speaker=Ruphulus
 #: A_Rough_Life/scenarios/2_Captivity.cfg:409
 msgid "Hahahaha, well done, kids."
-msgstr "하하하하, 잘했다, 얘들아."
+msgstr "하하하하, 잘했다, 아가들아."
 
 #. [message]: speaker=King Bombasan
 #: A_Rough_Life/scenarios/2_Captivity.cfg:413
+#, fuzzy
 msgid ""
 "Ruphulus, your sense of humor is quite... astounding. Please do not bring "
 "these creatures into our halls anymore."
 msgstr ""
-"루풀러스, 그대의 유머 감각은 꽤나.... 경악스럽군. 다시는 우리 홀에 이런 것들"
-"을 들이지 마시오."
+"루풀루스, 당신의 유머감각은 꽤나... 놀랍소. 부디 다시는 대전에 이런 생물들을 "
+"풀어놓는 일이 없도록 해주시오."
 
 #. [message]: speaker=Ruphulus
 #: A_Rough_Life/scenarios/2_Captivity.cfg:417
 msgid "But of course, Your Majesty. Your wish is my command, without a doubt."
-msgstr "하지만 물론 전하, 당신께서 바람이 제겐 명령이 되지요, 당연한 일입니다."
+msgstr "물론이지요, 전하. 전하의 바람이 곧 제게는 명령 아니겠습니까."
 
 #. [message]: speaker=Lieutenant Popper
 #: A_Rough_Life/scenarios/2_Captivity.cfg:422
+#, fuzzy
 msgid ""
 "OK, enough *fun* for one day, I reckon. Newcomers, you will be escorted to "
 "your quarters. Get as much rest as you can, for tomorrow morning your work "
 "will commence."
 msgstr ""
-"좋소, 하루치로 충분한 *재미*였소, 내 생각엔. 신입, 너희는 막사로 안내될 것이"
-"다. 최대한 많이 쉬어두도록, 내일 아침부터 일이 시작된다."
+"(<i>경비들에게</i>) 좋아, 하루치 <i>재미</i> 는 이제 충분한거 같군. 신병들을 "
+"막사로 데려가라. 음식을 주고 쉬게 하도록. (<i>자퀘스 일행에게</i>) 너희 일은 "
+"내일부터다."
 
 #. [message]: speaker=Lieutenant Popper
 #: A_Rough_Life/scenarios/2_Captivity.cfg:426
+#, fuzzy
 msgid ""
 "And you, men, clean up this mess. What do I want? The floors polished clean. "
 "When do I want it? Now!"
 msgstr ""
-"그리고 너희들, 이 난장판을 치워라. 내가 뭘 원한다고? 바닥이 반짝반짝하게 치"
-"워. 언제인거 같나? 지금 당장!"
+"<big>거기 너희들! 이 난장판을 치워라! 뭘 하라고? 바닥을 반짝반짝 치워라! 언"
+"제 하느냐? 지금이다!</big>"
 
 #. [scenario]: id=3_Hard_Labour
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:3
 msgid "Hard Labour"
-msgstr ""
+msgstr "힘든 일"
 
 #. [part]
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:9
@@ -3377,7 +3403,7 @@ msgstr ""
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:41
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:152
 msgid "Bewildered Jacques"
-msgstr ""
+msgstr "얼떨떨한 자퀘스"
 
 #. [side]: type=Orcish Leader, id=Gronar
 #. [unit]: id=Gronar, type=Orcish Leader
@@ -3385,7 +3411,7 @@ msgstr ""
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:80
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:42
 msgid "Gronar"
-msgstr ""
+msgstr "그로나르"
 
 #. [side]: type=Gryphon, id=Hatrox
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:88
@@ -3403,8 +3429,9 @@ msgstr ""
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:120
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:122
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:445
+#, fuzzy
 msgid "Turns run out or Jacques gets killed."
-msgstr ""
+msgstr "자퀘스의 사망"
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:164
@@ -3459,12 +3486,16 @@ msgstr ""
 
 #. [message]: id=Gronar
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:192
+#, fuzzy
 msgid ""
 "Yes, it is, Bambi. Why, it's just on the other side of those mountain peaks "
 "over there. Shame that they are impassable. So, unless you manage to find a "
 "way to fly or ask King Bombasan to lead you through the underground caverns, "
 "forget it, you ain't going home!"
 msgstr ""
+"그야 그렇지, 꼬마. 근데 그건 요 산꼭대기 반대편에 있거든. 날아서 가든가 이 미"
+"로같은 동굴에서 길을 찾을 줄 안다면야 갈 수 있겠지. 그 다음엔 수영을 할 줄 알"
+"아야겠고. 하! 잊어버려, 넌 고향에 돌아갈 수 없으니까!"
 
 #. [message]: id=Gronar
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:196
@@ -3478,37 +3509,46 @@ msgid ""
 "Arrgh, that surely woke them up! Look, they're crawling out of their holes! "
 "Brace yourself, everybody!"
 msgstr ""
+"아악, 놈들을 떼거지로 깨워버렸구만! 저기 놈들이 구멍에서 기어나온다! 모두 단"
+"단히 각오하도록!"
 
 #. [print]
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:248
 msgid "$count beasts defeated."
-msgstr ""
+msgstr "야수를 $count 마리 무찔렀다."
 
 #. [message]: speaker=second_unit
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:261
 msgid ""
 "Shouldn't this be enough for one day? Let's get back inside before more of "
 "them come out."
-msgstr ""
+msgstr "이정도면 하루치로 충분하지 않나요? 놈들이 더 나오기 전에 돌아가죠."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:265
+#, fuzzy
 msgid ""
 "Having done their daily chore, the captives slowly make their way back "
 "towards the safety of their underground prison. Jacques is dead tired, but "
 "also invigorated with a fresh sense of purpose. He is still alive. He will "
 "NOT rot to death in this prison. And he WILL, somehow, find a way out."
 msgstr ""
+"하루의 일을 끝마치고서, 사냥 분대는 동굴 근처의 바위로 된 지하 쉼터로 뛰어들"
+"어갔다. 자퀘스는 죽도록 피곤했지만, 그의 마음은 목적의식으로 불타오르고 있었"
+"다. 난 살아있고, <b>이런 감옥에서 썩지는</b> 않을 것이다. 난 여기서 <b>탈출하"
+"고 말 것이다!</b>"
 
 #. [message]: id=Gronar
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:284
+#, fuzzy
 msgid ""
 "Argh, they got me! But do not lose hope, comrades! Fight on and victory will "
 "be yours..."
-msgstr ""
+msgstr "아악, 놈들에게 당했다! 희망을 잃지마라, 동지들이여! 승리를 쟁취해-"
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:302
+#, fuzzy
 msgid ""
 "As the survivors rest by the cave entrance, Jacques receives an additional "
 "surge of high spirits as he witnesses an unexpected sight. A figure slowly "
@@ -3516,9 +3556,13 @@ msgid ""
 "surviving the onslaught of the beasts and making it back, albeit greatly "
 "wounded."
 msgstr ""
+"생존자들은 동굴 입구에 들어서서 잠시 숨을 몰아쉬었다. 저 멀리모래밭을 가로질"
+"러 터벅터벅 걸어오는 인영이 보였다. 자퀘스의 마음이 벅차올랐다. 그로나르다! "
+"비록 큰 상처를 입었지만, 야수들의 습격에서 어떻게 살아남아서 돌아온 것이다."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:309
+#, fuzzy
 msgid ""
 "As the survivors approach the cave entrance, suddenly a wolf appears out of "
 "nowhere and makes a lunge for Jacques. Jacques freezes in fear, but at the "
@@ -3526,9 +3570,14 @@ msgid ""
 "attack, then hacks the beast in half. It is Gronar, taking a deep wound "
 "himself but saving Jacques' life."
 msgstr ""
+"생존자들이 동굴 입구에 도착했을 쯤, 한 마리 늑대가 갑자기 나타나 자퀘스에게 "
+"달려들었다. 자퀘스는 공포로 얼어붙었지만, 그 순간 누군가 늑대 앞에 뛰어들어 "
+"놈을 반으로 쪼개버렸다. 그로나르가 깊은 상처를 감수하고 자퀘스의 목숨을 구한 "
+"것이다."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:323
+#, fuzzy
 msgid ""
 "Obviously in possession of more bravery than cunning, Jacques plunges into a "
 "struggle with a beast too rashly. He goes for the kill but sees his feet "
@@ -3537,50 +3586,64 @@ msgid ""
 "at him impassively and move on, leaving yet another body to be devoured by "
 "the beasts and the sand..."
 msgstr ""
+"생존자들이 동굴 입구에 도착했을 쯤, 한 마리 늑대가 갑자기 나타나 자퀘스에게 "
+"달려들었다. 자퀘스는 공포로 얼어붙었지만, 그 순간 누군가 늑대 앞에 뛰어들어 "
+"놈을 반으로 쪼개버렸다. 그로나르가 깊은 상처를 입으면서도 자퀘스의 목숨을 구"
+"한 것이다."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/3_Hard_Labour.cfg:335
+#, fuzzy
 msgid ""
 "Not being able to complete the task swiftly, Jacques and his fellow hunters "
 "are suddenly swarmed by scorpions coming at them from all sides. They fight "
 "valiantly, but finally succumb to the sheer might of numbers, and Jacques is "
 "no more."
 msgstr ""
+"작업이 늦는 바람에, 자퀘스와 그 분대는 갑자기 몰려오는 전갈들의 무리에 휩싸였"
+"다. 그들은 용감하게 싸웠지만, 끝내 놈들의 숫자에 눌리고 말았다. 먼지가 가라앉"
+"고, 사막에 남은 것은 팍팍 딱딱이는 야수들밖에 없었다."
 
 #. [scenario]: id=4_Unrest_in_the_Ranks
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:3
 msgid "Unrest in the Ranks"
-msgstr ""
+msgstr "군중 속의 동요"
 
 #. [part]
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:9
+#, fuzzy
 msgid ""
 "The time spent on the outside made Jacques dead tired, and yet he felt both "
 "his courage and strength rising as the captives returned to their lodgings. "
 "Still, what he craved most was his bed and he was on the verge of falling "
 "asleep when yelling woke him up..."
 msgstr ""
+"사냥 일은 정말로 피곤했지만, 포로들이 숙소로 돌아올 즈음 자퀘스는 다시 용기"
+"와 힘이 돌아오는 것을 느꼈다. 그가 침대로 기어들어가 막 잠을 청하려는 순간, "
+"웬 고함소리가 그의 잠을 날려버렸다..."
 
 #. [modify_unit]
 #. [side]: id=Jacques, type=Thief
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:29
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:94
 msgid "Tired Jacques"
-msgstr ""
+msgstr "피곤한 자퀘스"
 
 #. [side]: type=Bandit, id=Pollox
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:55
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:70
 msgid "Pollox"
-msgstr ""
+msgstr "폴록스"
 
 #. [objective]: condition=win
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:78
+#, fuzzy
 msgid "Defeat Pollox or resist until the end of turns."
-msgstr ""
+msgstr "정해진 턴수까지 버티기"
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:102
+#, fuzzy
 msgid ""
 "Jacques rushes out to see Gronar and a bandit quarreling in the communal "
 "area of the lodgings. Gronar, still aching from the wounds he got on the "
@@ -3588,48 +3651,65 @@ msgid ""
 "adorning even the most barren of underground caverns, and the bandit "
 "towering over him."
 msgstr ""
+"막사 밖으로 나오자, 자퀘스의 눈에 그로나르와 도적 하나가 공동에서 다투고 있"
+"는 것이 보였다. 그로나르는 상처를 안고서도 황량한 동굴을 장식하는 분수와 식물"
+"들 옆에 굳건히 서 있었는데, 도적은 그보다도 덩치가 컸다."
 
 #. [message]: speaker=Pollox
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:107
+#, fuzzy
 msgid ""
 "You are not fit to lead us, Gronar. You are as weak on the inside as you are "
 "on the outside!"
 msgstr ""
+"그로나르, 넌 우리 머리가 되기에 부족해. 넌 안에 있으나 밖에 있으나 약하잖아!"
 
 #. [message]: id=Gronar
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:111
 msgid ""
 "I'm sorry you feel like that, Pollox, but you don't know what you're saying."
 msgstr ""
+"그것 참 유감이구만 폴록스, 하지만 넌 네가 지금 무슨 소릴 하는건지 모르는 것 "
+"같은데."
 
 #. [message]: id=Pollox
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:115
+#, fuzzy
 msgid ""
 "We should have rebelled against these stupid cave dwellers long ago! "
 "Instead, you keep leading us into the wretched desert to be slaughtered week "
 "in and week out."
 msgstr ""
+"우린 벌써 한참 전에 이 빌어먹을 동굴놈들한테서 들고 일어났어야 했어! 넌 그 대"
+"신에 우릴 끌고 저 썩을 사막에서 매주마다 죽어나가게 만들고 있고."
 
 #. [message]: id=Gronar
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:119
+#, fuzzy
 msgid "Now, be sensible, Pollox. There is no way we can stand up to..."
-msgstr ""
+msgstr "자, 정신 차리게, 폴록스. 우리가 저들에게 대항-"
 
 #. [message]: id=Pollox
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:123
+#, fuzzy
 msgid ""
 "No! You have followed their sun-hating ways for too long and are too blind "
 "to see the light yourself. I think it is time for new leadership among the "
 "oppressed."
 msgstr ""
+"시끄러! 넌 해를 피하는 저놈들 방식을 너무 오래 따라해서 아예 빛을 보는법을 잊"
+"어버렸어. 이제 억압받는 자들을 구원할 새로운 지도자가 필요할 때다."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:130
+#, fuzzy
 msgid ""
 "Jacques sees Pollock's arm move at a blurry speed and connect with Gronar's "
 "head. For a few seconds, all that is heard around the cavern is the echo of "
 "that one hit. Then, Gronar's body slowly collapses to the ground..."
 msgstr ""
+"폴록스의 주먹이 슉 하고 날아가 그로나르의 머리에 꽂혔다. 순간 빡 하는 소리가 "
+"울리더니, 그로나르가 바닥에 쓰러졌다..."
 
 #. [message]: id=Jacques
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:139
@@ -3638,60 +3718,69 @@ msgstr ""
 
 #. [message]: id=Pollox
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:143
+#, fuzzy
 msgid "What are you complaining about, little brat? Do you want to join him?"
-msgstr ""
+msgstr "뭐가 불만이냐, 애새끼야? 너도 놈을 따라가고 싶냐?"
 
 #. [message]: id=Jacques
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:147
+#, fuzzy
 msgid "You will be the one joining him, you murderer!"
-msgstr ""
+msgstr "그를 따라가게 되는건 너다, 살인자!"
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:151
 msgid "Some men speak up to support Jacques. Others side with Pollox."
-msgstr ""
+msgstr "몇 사람이 자퀘스에게 동조했다. 다른 자들은 폴록스를 따랐다."
 
 #. [message]: id=Pollox
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:156
+#, fuzzy
 msgid "Ah, every place has a few rats that need to be exterminated."
-msgstr ""
+msgstr "하, 어디서든지 치워야 될 쥐는 있는 법이로군."
 
 #. [message]: speaker=second_unit
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:236
+#, fuzzy
 msgid "Hahaha! The little brat has gone to join his beloved mentor again."
-msgstr ""
+msgstr "하하하! 조그만 애새끼, 따르던 선배를 따라갔군."
 
 #. [message]: speaker=Pollox
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:259
 msgid "Damn you, you cowards! May you rot in this godforsaken place forever!"
-msgstr ""
+msgstr "빌어먹을, 이 겁쟁이들아! 너희들은 이 우중충한 곳에서 영원히 썩을거다!"
 
 #. [message]: speaker=Jacques
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:263
+#, fuzzy
 msgid "At least the company will be better than where you're going."
-msgstr ""
+msgstr "그래도 네가 없는 편이 그나마 낫지."
 
 #. [message]: speaker=Lieutenant Popper
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:286
+#, fuzzy
 msgid "What has been going on in here?"
-msgstr ""
+msgstr "무슨 일이냐?"
 
 #. [message]: speaker=Jacques
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:290
 msgid "I... I can't quite say."
-msgstr ""
+msgstr "어... 말하기 곤란합니다."
 
 #. [message]: speaker=Lieutenant Popper
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:294
 msgid "What do you mean, you can't say? I demand to know!"
-msgstr ""
+msgstr "말하기 곤란하다는게 무슨 뜻이냐? 나는 알아야겠다!"
 
 #. [message]: speaker=Jacques
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:298
+#, fuzzy
 msgid ""
 "It was Pollox and his men. It was as if they were... poisoned, somehow. But "
 "I can't understand it."
 msgstr ""
+"폴록스와 똘마니들 때문입니다. 저들은 음... 뭔가 독이라도 먹은 것 같았어요. 혁"
+"명이 어떻고 하면서 자기 동료들인 우릴 공격했습니다."
 
 #. [message]: speaker=Lieutenant Popper
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:302
@@ -3705,16 +3794,22 @@ msgid ""
 "No, I mean... I don't quite know what I mean. It was as if something had "
 "poisoned their mind."
 msgstr ""
+"아뇨, 제 말은... 뭐라고 해야 할 지 잘 모르겠군요. 뭔가 마음에 독이 퍼진 것 같"
+"았다는거죠."
 
 #. [message]: speaker=Lieutenant Popper
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:310
+#, fuzzy
 msgid ""
 "Hmmm, I see. Men, take the remaining attackers into the dungeon! As for the "
 "rest of you, get a good night's sleep, for tomorrow a big task awaits you."
 msgstr ""
+"흐음, 알겠다. 이봐들, 범인들은 감방으로 끌고 가라! 그리고 너희 나머지는 돌아"
+"가라, 얼른! 내일은 큰 임무가 있다."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:314
+#, fuzzy
 msgid ""
 "As Popper and his guard depart with the remaining culprits, Jacques returns "
 "to the fallen body of Gronar. He has hardly known the orc and yet he feels a "
@@ -3723,14 +3818,22 @@ msgid ""
 "respect for Gronar, he picks it up. It is a good bow. Would he know how to "
 "use it?"
 msgstr ""
+"포퍼와 경비들이 불평분자들을 끌고가고, 자퀘스는 그로나르의 시신으로 시선을 돌"
+"렸다. 그는 오크에 대해서는 거의 아는게 없었지만, 그가 그렇게 쓰러져 있는 모습"
+"을 보니 마음이 찌르듯이 아파왔다. 그로나르의 활이 땅에 떨어져 있었다. 도둑의 "
+"본성 때문이었는지, 그로나르를 기억하고자 하는 것이었는지는 몰라도 그는 그것"
+"을 집어들었다. 이걸 내가 쓸 수 있을까?"
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:319
+#, fuzzy
 msgid ""
 "As he returns to his bed, still clutching the bow, Jacques finds new "
 "resolve. He would not despair. Tomorrow would be another day, and tonight he "
 "would start preparing for it by taking a good night's sleep."
 msgstr ""
+"활을 쥔 채로 침대에 들면서, 자퀘스는 새롭게 다짐했다. 나는 절망하지 않겠다. "
+"내일은 내일의 태양이 뜰테고, 오늘은 편안히 쉬면서 내일을 준비해야만 한다."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/4_Unrest_in_the_Ranks.cfg:324
@@ -3810,8 +3913,9 @@ msgstr ""
 #. [objective]: condition=win
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:118
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:441
+#, fuzzy
 msgid "Defeat the two enemy leaders."
-msgstr ""
+msgstr "야수 퇴치"
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:156
@@ -4023,8 +4127,9 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:449
+#, fuzzy
 msgid "Death of Princess Kyoko."
-msgstr ""
+msgstr "자퀘스의 사망"
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:481
@@ -4147,12 +4252,16 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/5_More_Hard_Labour.cfg:835
+#, fuzzy
 msgid ""
 "Not being able to complete the task swiftly, Jacques and his fellow hunters "
 "are suddenly swarmed by beasts coming at them from all sides. They fight "
 "valiantly, but finally succumb to the sheer might of numbers, and Jacques is "
 "no more."
 msgstr ""
+"작업이 늦는 바람에, 자퀘스와 그 분대는 갑자기 몰려오는 전갈들의 무리에 휩싸였"
+"다. 그들은 용감하게 싸웠지만, 끝내 놈들의 숫자에 눌리고 말았다. 먼지가 가라앉"
+"고, 사막에 남은 것은 팍팍 딱딱이는 야수들밖에 없었다."
 
 #. [scenario]: id=6_Seeing_the_Light
 #: A_Rough_Life/scenarios/6_Seeing_the_Light.cfg:3
@@ -4237,8 +4346,9 @@ msgstr ""
 
 #. [message]: id=Jacques
 #: A_Rough_Life/scenarios/6_Seeing_the_Light.cfg:91
+#, fuzzy
 msgid "Ruphulus."
-msgstr ""
+msgstr "루풀루스"
 
 #. [message]: id=Arbor
 #: A_Rough_Life/scenarios/6_Seeing_the_Light.cfg:95
@@ -4491,8 +4601,9 @@ msgstr ""
 
 #. [objective]: condition=win
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:121
+#, fuzzy
 msgid "Defeat Ruphulus and his beasts."
-msgstr ""
+msgstr "야수 퇴치"
 
 #. [objective]: condition=lose
 #: A_Rough_Life/scenarios/7_Confronting_the_Traitor.cfg:125
@@ -5436,12 +5547,16 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:709
+#, fuzzy
 msgid ""
 "Not being able to complete the task swiftly, Jacques and his friends are "
 "suddenly swarmed by Shadowhounds coming at them from all sides. They fight "
 "valiantly, but finally succumb to the sheer might of numbers, and Jacques is "
 "no more."
 msgstr ""
+"작업이 늦는 바람에, 자퀘스와 그 분대는 갑자기 몰려오는 전갈들의 무리에 휩싸였"
+"다. 그들은 용감하게 싸웠지만, 끝내 놈들의 숫자에 눌리고 말았다. 먼지가 가라앉"
+"고, 사막에 남은 것은 팍팍 딱딱이는 야수들밖에 없었다."
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/8_The_Shadowlands.cfg:754
@@ -5659,8 +5774,9 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:97
+#, fuzzy
 msgid "Death of Jacques, Kyoko or Luxor."
-msgstr ""
+msgstr "자퀘스의 사망"
 
 #. [message]: speaker=narrator
 #: A_Rough_Life/scenarios/9_The_Long_Night_of_Shadows.cfg:135
@@ -6123,7 +6239,7 @@ msgstr ""
 #. [unit_type]: id=Sand Ranger
 #: A_Rough_Life/units/Sand_Ranger.cfg:7
 msgid "Sand Ranger"
-msgstr "사막 레인저"
+msgstr ""
 
 #. [unit_type]: id=Sand Ranger
 #: A_Rough_Life/units/Sand_Ranger.cfg:16
@@ -6134,16 +6250,11 @@ msgid ""
 "the sands. However, it is not always possible to engage enemies at range, so "
 "such men soon become fairly skilled with a sword just in case."
 msgstr ""
-"시련이 닥치면, 인간은 모든 것을 깊이 고려하며 어떤 조건에서라도 놀라운 속도"
-"로 적응한다. 나무꾼의 궁술은 사막에서도 유용하며, 그는 금방 모래의 불안정한 "
-"발디딤에 대응하는 법을 익히게 된다. 하지만, 언제나 적을 원거리에서 상대할 수"
-"만은 없기에, 이런 사람들은 곧 만약을 위해서 쓸 검술도 상당한 경지까지 익히게 "
-"된다."
 
 #. [unit_type]: id=Sand Trapper
 #: A_Rough_Life/units/Sand_Trapper.cfg:7
 msgid "Sand Trapper"
-msgstr "모래지대 덫 사냥꾼"
+msgstr ""
 
 #. [unit_type]: id=Sand Trapper
 #: A_Rough_Life/units/Sand_Trapper.cfg:17
@@ -6153,14 +6264,11 @@ msgid ""
 "desert, and he soon learns to cope with the unstable footing presented by "
 "the sands."
 msgstr ""
-"시련이 닥치면, 인간은 모든 것을 깊이 고려하며 어떤 조건에서라도 놀라운 속도"
-"로 적응한다. 나무꾼의 궁술은 사막에서도 유용하며, 그는 금방 모래의 불안정한 "
-"발디딤에 대응하는 법을 익히게 된다."
 
 #. [attack]: type=blade
 #: A_Rough_Life/units/Sand_Trapper.cfg:20
 msgid "dagger"
-msgstr "단검"
+msgstr ""
 
 #. [unit_type]: id=Signalman, race=human
 #: A_Rough_Life/units/Signalman.cfg:4
@@ -6204,7 +6312,7 @@ msgstr ""
 #: A_Rough_Life/units/Skeleton_Guardian_left.cfg:27
 #: A_Rough_Life/units/Skeleton_Guardian_right.cfg:28
 msgid "axe"
-msgstr "도끼"
+msgstr ""
 
 #. [unit_type]: id=Young Gryphon, race=gryphon
 #: A_Rough_Life/units/Young_Gryphon.cfg:4
@@ -6227,5 +6335,198 @@ msgstr ""
 msgid "claws"
 msgstr ""
 
-#~ msgid "Lt. Popper"
-#~ msgstr "포퍼 중위"
+#~ msgid "Jacques resists capture for at least 15 turns"
+#~ msgstr "잡히기 전에 최소한 15턴을 버텨라"
+
+#~ msgid "Jacques is captured before turn 15"
+#~ msgstr "15턴 이전에 자퀘스가 잡힘"
+
+#~ msgid "Good riddance. Hehe, this sword feels good in my hand!"
+#~ msgstr "제법 재밌었어. 헤헤, 이 검 손에 잘맞는데!"
+
+#~ msgid ""
+#~ "Jacques's ragged group comes to a halting stop lost in these unfamiliar "
+#~ "surroundings. In the middle distance are three great thrones, two "
+#~ "occupied. A heavily armed and armored man puts himself in their path, "
+#~ "bemused."
+#~ msgstr ""
+#~ "자퀘스와 지친 일행들은 이런 낯선 환경에 당혹하여 우뚝 멈춰섰다. 멀지 않은 "
+#~ "곳에 세 개의 왕좌가 있었고, 두 곳에 사람이 있었다. 중무장을 한 사내들이 "
+#~ "그 사이에 멍하니 서있었다."
+
+#~ msgid ""
+#~ "You need not ask why this task falls to you. You need only know my "
+#~ "expectations of your performance. The two most common beasts you-"
+#~ msgstr ""
+#~ "어째서 이런 일을 해야 되느냐는 질문은 필요없다. 너희가 기억할 것은 오직 내"
+#~ "가 너희의 성과를 기대하고 있다는 사실 뿐이다. 너희가 상대할 야수 중에 가"
+#~ "장 흔한 종류가 둘 있는데-"
+
+#~ msgid "Defeat ten beasts"
+#~ msgstr "야수 열마리 처치"
+
+#~ msgid ""
+#~ "As Jacques' little band emerges from the cave, the sun is about to come "
+#~ "up. The guards quickly duck back inside, as if they are afraid of lurking "
+#~ "beasts. With no guards, thought Jacques, perhaps escape would be "
+#~ "possible. But escape to where?"
+#~ msgstr ""
+#~ "자퀘스 일행이 동굴에서 나왔을 때, 해가 막 떠오르고 있었다. 경비병들은 마"
+#~ "치 야수들을 두려워하듯이 서둘러 안으로 숨어들어갔다. 경비들이 없자 자퀘스"
+#~ "의 안에서 탈출이 가능할지도 모른다는 생각이 들었다. 하지만 어디로 간단 말"
+#~ "인가?"
+
+#~ msgid ""
+#~ "The <i>plains</i> expand unbroken before them: a great golden desert of "
+#~ "ample sparkling sand. Jacques, unfamiliar with such terrain, has no idea "
+#~ "of the nature of his surroundings. Squinting across the dunes, he just "
+#~ "makes out a line of hills on a near horizon."
+#~ msgstr ""
+#~ "이 <i>평원</i>은 끝도없이 뻗어 있는, 반짝반짝 빛나는 모래로 가득한 거대한 "
+#~ "황금빛 사막이었다. 이런 지형은 낯선 자퀘스는, 그 주위의 환경이 어떤 것인"
+#~ "지 알지 못했다. 모래언덕 너머를 지그시 노려보던 그는 지평선 위로 산줄기가 "
+#~ "뻗어있는 것을 발견했다."
+
+#~ msgid ""
+#~ "His gaze is noted by an orcish brute keeping to the shade of a rocky wall "
+#~ "just outside the cavern. Gronar, it seems, leads the hunting party today."
+#~ msgstr ""
+#~ "동굴 밖의 바위벽의 그림자 속에 서 있던 거친 오크 하나가 그가 시선을 눈치챘"
+#~ "다. 그로나르라고 하는 그가 오늘의 사냥단을 지휘하는 모양이다."
+
+#~ msgid ""
+#~ "Another day awaits us, fellows! Don't think about running away. The "
+#~ "mountains are impassible and the desert will kill you certain ... if the "
+#~ "Shadowhounds don't get you first."
+#~ msgstr ""
+#~ "오늘도 하루의 시작이다, 친구들! 도망칠 생각은 하지 말도록. 저쪽은 넘을 수 "
+#~ "없는 산이고 이 사막은 딱 좋은 곳이니까... 뭐 그것도 그림자 들개들한테 걸리"
+#~ "지 않았다면 얘기지만."
+
+#~ msgid "What about the sea? Surely it must be near."
+#~ msgstr "바다는 어떻게 된거죠? 분명 가까운 데 있을텐데."
+
+#~ msgid ""
+#~ "But enough chit-chat! Newcomers, stay to the rear! Follow us closely and "
+#~ "try to learn fast. Watch out for nasty surprises! Out here, your "
+#~ "inexperience can get us all killed. Hunters, bring me pelts, tails and "
+#~ "fangs!"
+#~ msgstr ""
+#~ "자 이제 그만 떠들고! 너희 신입들은 뒤에 있어라! 우리 곁에 꼭 붙어서 빨리빨"
+#~ "리 배우는거다. 재수없는 기습에 조심해! 여기 밖에서는 너희같이 경험 없는 놈"
+#~ "들 때문에 우리가 다 죽을 수도 있어. 자 사냥해라, 털가죽, 꼬리, 송곳니를 가"
+#~ "져와라!"
+
+#~ msgid "Defeat Pollox"
+#~ msgstr "폴록스를 격파"
+
+#~ msgid "<big>Nooo!</big> Gronar, nooo...!"
+#~ msgstr "<big>안돼애애!</big> 그로나르, 안돼...!"
+
+#~ msgid "Poisoned, you say? They seemed ill?"
+#~ msgstr "독을 먹었다고? 아파 보이던가?"
+
+#~ msgid ""
+#~ "He crawls across a battlefield desperate to escape... though nothing's "
+#~ "seen to chase him."
+#~ msgstr ""
+#~ "그는 전장에서 필사적으로 기어서 탈출하려 한다... 누가 쫓아오는 것 같지는 "
+#~ "않지만."
+
+#~ msgid ""
+#~ "His hand stretches out to grasp a book. The book is pain. The book is "
+#~ "life. His hand stretches out to grasp <b>the</b> book... "
+#~ msgstr ""
+#~ "책을 집으려 손을 뻗는다. 그 책은 고통이다. 그 책은 생명이다. 그가 <b>그</"
+#~ "b> 책을 잡으려 손을 뻗는다..."
+
+#~ msgid ""
+#~ "He wanders lost through desolate landscapes. Where is everyone? He is "
+#~ "alone, so alone... "
+#~ msgstr ""
+#~ "황량한 풍경 속에서 길을 잃고 헤맨다. 모두들 어디 있지? 그는 혼자다, 아무"
+#~ "도 없다..."
+
+#~ msgid ""
+#~ "Such are Jacques' nightly dreams, foretelling a dismal fate sparked by "
+#~ "lust for adventure. Castles, kings, and mighty mages occupied his waking "
+#~ "mind. Craving wealth, power and fame, he bragged he would have it all "
+#~ "<i>someday</i>."
+#~ msgstr ""
+#~ "그런 것들은 자퀘스가 매일 밤 꾸는 꿈이었다. 모험에의 갈망이 낳은 암울한 미"
+#~ "래를 보여주는 꿈. 성과 왕, 그리고 강대한 마법사들이 깨어난 그의 꿈을 사로"
+#~ "잡았다. 부와 힘, 그리고 명성에 대한 열망에 빠진 그는 <i>언젠가는</i> 그런 "
+#~ "것들을 전부 손에 넣을거라고 떠벌리고 다녔다."
+
+#~ msgid ""
+#~ "His friends tease him for his talk. But not too much, for Jacques was the "
+#~ "son of Yves the Surly, who bosses the local thugs. Unpopular with the "
+#~ "common folk, Jacques nevertheless leads a sheltered life: no one dares "
+#~ "harm him as he, like his father, harasses the folk in and around the "
+#~ "village of Mosh."
+#~ msgstr ""
+#~ "그의 친구들은 그가 떠드는 얘기들을 깠다. 하지만 자퀘스는 그 지역 깡패들의 "
+#~ "보스인 악랄한 예베스의 아들이었기 때문에, 크게 뭐라고 하지는 않았다. 일반"
+#~ "인들의 평은 좋지 않았지만, 그래도 자퀘스는 평온한 삶을 살고 있었다. 그는 "
+#~ "아버지처럼 모쉬 마을과 주변 사람들을 괴롭히고 다녔지만 누구도 감히 그를 어"
+#~ "찌할 생각을 하지 못했다."
+
+#~ msgid ""
+#~ "After months at sea, Jacques lingers, seasick and homesick on the ship's "
+#~ "slow journey. Occasionally some captives are removed from the tiny hold, "
+#~ "and others join the unfortunate crowd."
+#~ msgstr ""
+#~ "바다에서 몇달을 보내는 동안, 자퀘스는 느리기 그지없는 배 속에서 배멀미와 "
+#~ "향수병에 시달렸다. 놈들은 때때로 어떤 포로들을 작은 짐칸에서 빼내고, 또 다"
+#~ "른 이들을 불운한 군중 속에 밀어넣었다."
+
+#~ msgid ""
+#~ "Finally, his turn comes. Weak from ill treatment, eyes too long without "
+#~ "light, he is shuffled ashore. Jacques feels his spirits lift as he steps "
+#~ "on hard soil, but they sink again within minutes as, prodded by goblin "
+#~ "spears, he and his sorry companions are herded into a dripping coastal "
+#~ "cave. Leaving open sky behind, Jacques catches one last glimpse of golden "
+#~ "glistening light before stumbling into the rocky cavern."
+#~ msgstr ""
+#~ "마침내 그의 차례도 왔다. 오랫동안 빛을 보지못한 눈과, 그간의 혹사로 약해"
+#~ "진 몸으로 그는 터벅터벅 걸었다. 굳은 땅을 밟으니 자퀘스의 마음은 날아갈 "
+#~ "것 같았지만, 고블린의 창에 쿡쿡 찔리면서 다시 가라앉았다. 그와 그의 안쓰러"
+#~ "운 동료들은 물이 뚝뚝 떨어지는 해안 동굴로 몰려갔다. 넓은 하늘을 뒤로하고 "
+#~ "바위동굴로 발을 딛기 전에, 자퀘스는 마지막으로 금빛나는 빛줄기를 눈에 담았"
+#~ "다."
+
+#~ msgid ""
+#~ "Jacques' little band was led through a series of winding passageways to a "
+#~ "barracks-like hall. The lodgings were simple but comfortable. Pleased to "
+#~ "find a solid bed at the end of his enervating sea voyage, Jacques "
+#~ "collapsed in a heap as soon as his captors left him."
+#~ msgstr ""
+#~ "자퀘스의 일행은 다수의 꼬불꼬불한 길들을 지나 막사처럼 보이는 공간에 들어"
+#~ "섰다. 숙소는 단출했지만 편안했다. 힘빠지는 항해에 지친 자퀘스에겐 딱딱한 "
+#~ "침대는 반가운 것이었고, 그는 억류자들이 떠나자마자 침대에 드러누웠다."
+
+#~ msgid ""
+#~ "For a few moments he pondered what had befallen him. The job he was "
+#~ "supposed to do was not impossible. Perhaps he could get through this. He "
+#~ "decided all he had to do for now was to stay alive."
+#~ msgstr ""
+#~ "잠시동안 그는 대체 그에게 무슨 일이 일어난건지 생각했다. 그가 해야 할 일이"
+#~ "란 불가능한 것은 아니었다. 어쩌면 여기서 버텨낼 수 있을 것도 같았다. 그는 "
+#~ "일단 지금은 살아남는 것만 생각하자고 다짐했다."
+
+#~ msgid ""
+#~ "It wasn't entirely clear why his captors needed slaves to kill beasts. "
+#~ "They seemed quite capable on their own. Their underground world was "
+#~ "strange but impressive. Pondering this, he fell into a deep and dreamless "
+#~ "sleep."
+#~ msgstr ""
+#~ "왜 야수들을 잡는데 굳이 노예들이 필요한지는 확실하지 않았다. 그들의 능력으"
+#~ "로도 그런 일은 할 수 있었다. 이 지하 세계는 괴이하면서도 인상깊은 곳이었"
+#~ "다. 이런저런 생각들을 하며, 그는 꿈도 꾸지 않고 깊게 잠들었다."
+
+#~ msgid ""
+#~ "In the dark preceding dawn hours of the morning, he was rousted from bed "
+#~ "and rushed outside to hunt dangerous beasts..."
+#~ msgstr ""
+#~ "어둠 속에서 새벽의 시간이 다가올 때, 그는 침대에서 밀려나 위험한 야수들을 "
+#~ "사냥하러 달려나가야 했다..."
